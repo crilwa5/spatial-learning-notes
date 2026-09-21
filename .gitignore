@@ -1,0 +1,14 @@
+﻿.vscode/
+.idea/
+__pycache__/
+*.tmp
+*.log
+datasets/
+data/
+weights/
+checkpoints/
+*.pth
+*.pt
+*.onnx
+.env
+secrets/
