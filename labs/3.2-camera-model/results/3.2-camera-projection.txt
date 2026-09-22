@@ -1,0 +1,7 @@
+point_c = [0.3, -0.2, 2.0]
+pixel = [760.0, 280.0]
+ray_c = [0.15, -0.1, 1.0]
+recovered_c = [0.3, -0.2, 2.0]
+recovered_w = [1.3, -0.2, 2.0]
+reprojected_pixel = [760.0, 280.0]
+reprojection_error = 0.0
