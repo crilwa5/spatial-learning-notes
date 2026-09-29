@@ -12,3 +12,6 @@ checkpoints/
 *.onnx
 .env
 secrets/
+
+labs/3.4-slam/**/video/
+labs/3.4-slam/**/sequence/
